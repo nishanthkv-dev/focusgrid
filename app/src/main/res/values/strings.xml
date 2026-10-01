@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Focus Now</string>
+    <string name="accessibility_service_label">Focus Now Blocker Service</string>
+    <string name="accessibility_service_description">Used strictly during active study sessions to detect when distracting apps are opened and display the Focus Now study reminder.</string>
+</resources>
